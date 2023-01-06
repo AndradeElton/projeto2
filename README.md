@@ -17,7 +17,7 @@ Desafio Proposto por um grupo de amigos desenvolvedores.
 
 <br>
 
-<p> align="center">
+<p align="center">
   <img alt="Projeto DevHouse" src=".github/preview.png" width="100%">
 </p>
 
